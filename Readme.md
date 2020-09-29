@@ -1,9 +1,9 @@
 # JWT example app
-Inside each of the app/server, install modules and type `yarn start` to start it up.
+Inside each of the app/server, install modules by `npm install` and type `npm start` to start it up. Then access `localhost:3000`.
 
 ## Server
-- express
+- NodeJS, ExpressJS
 
 ## App
-- next + react, testing SSR
+- NextJS + ReactJS,
 
